@@ -1,13 +1,13 @@
   
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * You can freely use the code but don't remove the author name from the code.
+ * Enjoy your coding !!!!
+ * This code will run in any IDE but recommended is NetBeans.
  */
 
 /**
  *
- * @author Shubham
+ * @author Shubham Mishra
  */
 public class calculator extends javax.swing.JFrame {
 
